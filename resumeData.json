@@ -1,0 +1,77 @@
+{
+  "main": {
+    "name": "Mike Yang",
+    "occupation": "Lead Systems Engineer",
+    "description": "I'm currently studying for a Master's in Computer Science at Georgia Tech",
+    "image": "profilepic.jpg",
+    "bio": "When not at my computer, I'm usually hiking or climbing!",
+    "contactmessage": "Please feel free to reach out anytime.",
+    "email": "mikegyang@gmail.com",
+    "phone": "(859) 361-9637",
+    "address": {
+      "street": "(Your Street)",
+      "city": "Salt Lake City",
+      "state": "Utah",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://mgyang.github.io",
+    "resumedownload": "https://docs.google.com/document/d/1YRUImIgzZgTKDNDjr5d7114q4jS7JPsi/edit?usp=sharing&ouid=107740112981464190596&rtpof=true&sd=true",
+    "social": [
+            {
+        "name": "github",
+        "url": "https://github.com/mgyang3",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Case Western Reserve University",
+        "degree": "Bachelor of Science",
+        "graduated": "May 2018",
+        "description": "Biomedical and Electrical Engineering"
+      },
+      {
+        "school": "Georgia Institute of Technology",
+        "degree": "Masters in Computer Science",
+        "graduated": "Expected-2024",
+        "description": "Interactive Intelligence"
+      }
+    ],
+    "work": [
+      {
+        "company": "GE Healthcare",
+        "title": "Lead Systems Engineer",
+        "years": "January 2019 - Present",
+        "description": "Hoping to improve OEC C-arms one day at a time :)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "55%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+
+      {
+        "name": "SQL",
+        "level": "25%"
+      },
+      {
+        "name": "C++",
+        "level": "60%"
+      }
+
+    ]
+  }
+
+}
